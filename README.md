@@ -13,4 +13,4 @@ Buenas, estoy editando un archivo
 - gitlab
 
 ## grupo de trabajo: 
-- [los lenins](./extendido.md)
+- [los lenins](./extendido)
